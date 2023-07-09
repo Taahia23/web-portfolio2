@@ -16,22 +16,21 @@
 }
 
 .empty {
-    max-width: 70%
+    max-width: 60%
 }
 
 .header-content {
-    max-width: 30%;
+    max-width: 40%;
     padding: 90px;
     padding-top: 120px;
 }
 
 .header-title {
-    font-size: 65px;
+    font-size: 50px;
     margin-bottom: 25px;
     color: #151414;
     text-align: right;
     font-family: Work Sans;
-    font-size: 65px;
     font-weight: 700;
     padding-right: 160px;
 }
@@ -72,7 +71,7 @@
 .failures-of-previous-section {
     display: flex;
     gap: 120px;
-    margin: 100px 300px;
+    margin: 100px 230px;
 }
 
 .content-column {
@@ -150,7 +149,7 @@ ul li:before {
 /* plan styles end */
 /* picture styles start */
 .picture {
-    margin: 130px 230px 100px 380px;
+    margin: 130px 230px 100px 210px;
 }
 
 /* footer styles start */
